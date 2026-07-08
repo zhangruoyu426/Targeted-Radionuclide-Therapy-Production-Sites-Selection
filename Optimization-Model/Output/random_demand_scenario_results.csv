@@ -1,0 +1,11 @@
+Scenario,Total Demand,Facilities,Coverage (%),Selected
+Random_0,"250,844",5,90.7,"New York-Newark-Jersey City, NY-NJ, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA, Fresno, CA"
+Random_1,"246,632",5,91.9,"New York-Newark-Jersey City, NY-NJ, Los Angeles-Long Beach-Anaheim, CA, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA"
+Random_2,"246,199",5,90.2,"New York-Newark-Jersey City, NY-NJ, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA, Fresno, CA"
+Random_3,"246,588",5,91.3,"New York-Newark-Jersey City, NY-NJ, Los Angeles-Long Beach-Anaheim, CA, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA"
+Random_4,"246,265",5,91.8,"New York-Newark-Jersey City, NY-NJ, Los Angeles-Long Beach-Anaheim, CA, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA"
+Random_5,"253,143",5,90.9,"New York-Newark-Jersey City, NY-NJ, Chicago-Naperville-Elgin, IL-IN, Atlanta-Sandy Springs-Roswell, GA, San Francisco-Oakland-Fremont, CA, Oklahoma City, OK"
+Random_6,"241,360",5,90.9,"New York-Newark-Jersey City, NY-NJ, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA, Fresno, CA"
+Random_7,"254,432",5,90.2,"New York-Newark-Jersey City, NY-NJ, Chicago-Naperville-Elgin, IL-IN, Atlanta-Sandy Springs-Roswell, GA, San Francisco-Oakland-Fremont, CA, Oklahoma City, OK"
+Random_8,"254,725",5,90.8,"New York-Newark-Jersey City, NY-NJ, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA, San Francisco-Oakland-Fremont, CA"
+Random_9,"253,322",5,92.3,"New York-Newark-Jersey City, NY-NJ, Los Angeles-Long Beach-Anaheim, CA, Chicago-Naperville-Elgin, IL-IN, Dallas-Fort Worth-Arlington, TX, Atlanta-Sandy Springs-Roswell, GA"

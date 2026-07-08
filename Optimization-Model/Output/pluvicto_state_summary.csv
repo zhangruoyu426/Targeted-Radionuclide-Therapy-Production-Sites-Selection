@@ -1,0 +1,49 @@
+State,Total Demand,Avg Demand/Site,Site Count,Region,Total Demand Formatted,Avg Demand/Site Formatted
+New York,30898,792.2564102564103,39,Northeast,"30,898",792
+California,20011,408.38775510204084,49,Pacific West,"20,011",408
+Pennsylvania,15937,637.48,25,Northeast,"15,937",637
+Florida,13618,226.96666666666667,60,Southeast,"13,618",227
+North Carolina,12731,909.3571428571429,14,Southeast,"12,731",909
+Illinois,11068,503.09090909090907,22,Midwest,"11,068",503
+Texas,9779,349.25,28,South Central,"9,779",349
+Missouri,7467,466.6875,16,Midwest,"7,467",467
+Georgia,7167,298.625,24,Southeast,"7,167",299
+New Jersey,7125,263.8888888888889,27,Northeast,"7,125",264
+Maryland,7021,585.0833333333334,12,Southeast,"7,021",585
+Wisconsin,6025,376.5625,16,Midwest,"6,025",377
+Ohio,5994,352.5882352941176,17,Midwest,"5,994",353
+Iowa,5469,546.9,10,Midwest,"5,469",547
+Connecticut,5448,908.0,6,Northeast,"5,448",908
+Indiana,5389,449.0833333333333,12,Midwest,"5,389",449
+Minnesota,5363,536.3,10,Midwest,"5,363",536
+Tennessee,4983,553.6666666666666,9,Southeast,"4,983",554
+Kentucky,4829,482.9,10,South Central,"4,829",483
+Michigan,4816,267.55555555555554,18,Midwest,"4,816",268
+South Carolina,4668,424.3636363636364,11,Southeast,"4,668",424
+Alabama,4638,463.8,10,Southeast,"4,638",464
+Massachusetts,4203,467.0,9,Northeast,"4,203",467
+Colorado,3959,304.53846153846155,13,Mountain West,"3,959",305
+Washington,3959,179.95454545454547,22,Pacific West,"3,959",180
+Virginia,3625,329.54545454545456,11,Southeast,"3,625",330
+Louisiana,3338,238.42857142857142,14,South Central,"3,338",238
+Oregon,3096,387.0,8,Pacific West,"3,096",387
+Arizona,3092,206.13333333333333,15,Mountain West,"3,092",206
+Oklahoma,3001,333.44444444444446,9,South Central,"3,001",333
+Mississippi,2999,333.22222222222223,9,Southeast,"2,999",333
+Nebraska,2318,289.75,8,Midwest,"2,318",290
+New Hampshire,2033,1016.5,2,Northeast,"2,033","1,016"
+Washington D.C.,1826,608.6666666666666,3,Southeast,"1,826",609
+Arkansas,1666,238.0,7,South Central,"1,666",238
+Idaho,1386,198.0,7,Mountain West,"1,386",198
+Nevada,1276,212.66666666666666,6,Mountain West,"1,276",213
+Kansas,1248,249.6,5,Midwest,"1,248",250
+West Virginia,1178,168.28571428571428,7,Southeast,"1,178",168
+Utah,1150,191.66666666666666,6,Mountain West,"1,150",192
+Montana,871,145.16666666666666,6,Mountain West,871,145
+Vermont,746,746.0,1,Northeast,746,746
+Maine,699,233.0,3,Northeast,699,233
+South Dakota,650,325.0,2,Midwest,650,325
+North Dakota,499,249.5,2,Midwest,499,250
+New Mexico,358,119.33333333333333,3,Mountain West,358,119
+Delaware,288,144.0,2,Southeast,288,144
+Wyoming,93,93.0,1,Mountain West,93,93
