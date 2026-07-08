@@ -66,14 +66,9 @@ Subject to:
 
 For the complete mathematical formulation, see the [full report](https://zhangruoyu426.github.io/Targeted-Radionuclide-Therapy-Production-Sites-Selection/Report.html).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
-- Novartis for public data on Pluvicto production sites
-- Treatment centers for patient volume data
+- All dataset used in this project are publically-sourced.
 
 ---
 
